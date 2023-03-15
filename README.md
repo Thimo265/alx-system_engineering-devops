@@ -1,1 +1,1 @@
-this program is for shell basics
+this program is for shell basics and more
